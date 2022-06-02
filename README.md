@@ -1,5 +1,3 @@
 # Back-End
-JAVA
-Spring Boot
-Maven
-Gradle
+JAVA e Spring Boot,
+Maven ou Gradle
